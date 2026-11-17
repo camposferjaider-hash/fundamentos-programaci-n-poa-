@@ -52,7 +52,7 @@ def main():
     # Matriz inicial con 5 sesiones (Formato: [ID, Duración en seg, Clics])
     # Se incluyen ejemplos que disparan los tres tipos de clasificación
     sesiones = [
-        ["CLI-001", 180, 10],  # Cumple Alto (>180 y >8)
+        ["CLI-001", 181, 10],  # Cumple Alto (>180 y >8)
         ["CLI-002", 45, 5],    # Cumple Bajo (<60 o <3 por duración)
         ["CLI-003", 120, 5],   # Cae en Medio (No cumple Alto ni Bajo)
         ["CLI-004", 190, 2],    # Cumple Bajo (<60 o <3 por clics)
