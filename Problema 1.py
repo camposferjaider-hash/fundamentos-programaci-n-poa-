@@ -3,6 +3,7 @@
 # FASE 5: Evaluación Final POA - Problema 1
 # DESCRIPCIÓN: Evaluación del nivel de compromiso de sesiones digitales
 #              mediante el uso de matrices y funciones.
+# AUTOR: JAIDER FERNANDO MENDOZA CAMPOS
 # =====================================================================
 
 def clasificar_compromiso(duracion, clics):
